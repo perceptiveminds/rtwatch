@@ -1,4 +1,4 @@
-module github.com/pion/rtwatch
+module github.com/perceptiveminds/rtwatch
 
 go 1.15
 
