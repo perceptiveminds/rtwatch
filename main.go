@@ -9,7 +9,7 @@ import (
 	"strconv"
 
 	"github.com/gorilla/websocket"
-	"github.com/pion/rtwatch/gst"
+	"github.com/perceptiveminds/rtwatch/gst"
 	"github.com/pion/webrtc/v3"
 )
 
